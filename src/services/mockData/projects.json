@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Website Redesign",
+    "description": "Complete overhaul of our company website with modern design and improved user experience",
+    "members": ["John Doe", "Sarah Chen", "Mike Johnson", "Emily Davis"],
+    "createdAt": "2024-01-15T10:00:00Z",
+    "updatedAt": "2024-01-20T14:30:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Marketing Campaign",
+    "description": "Q1 marketing campaign for new product launch targeting millennials",
+    "members": ["Emily Davis", "Tom Wilson", "Lisa Park"],
+    "createdAt": "2024-01-10T09:15:00Z",
+    "updatedAt": "2024-01-18T16:45:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Mobile App Development",
+    "description": "Native iOS and Android app development for customer engagement",
+    "members": ["Mike Johnson", "Sarah Chen", "Alex Rodriguez", "Kim Lee"],
+    "createdAt": "2024-01-05T11:30:00Z",
+    "updatedAt": "2024-01-22T13:20:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Q1 Planning",
+    "description": "Strategic planning and goal setting for the first quarter",
+    "members": ["Tom Wilson", "Emily Davis", "John Doe"],
+    "createdAt": "2024-01-02T08:00:00Z",
+    "updatedAt": "2024-01-15T17:00:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Team Training Program",
+    "description": "Comprehensive training program to upskill team members on new technologies",
+    "members": ["Lisa Park", "Alex Rodriguez", "Kim Lee", "Sarah Chen"],
+    "createdAt": "2024-01-12T14:20:00Z",
+    "updatedAt": "2024-01-19T10:15:00Z"
+  }
+]

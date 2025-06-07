@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "projectId": "1",
+    "title": "Design System Update",
+    "content": "Hey team! I've updated our design system with new components and color guidelines. The new design tokens are now available in Figma and I've documented all the changes in our style guide.\n\nKey updates include:\n- Updated primary color palette\n- New typography scale\n- Consistent spacing guidelines\n- Improved accessibility standards\n\nPlease review and let me know if you have any questions!",
+    "author": "Sarah Chen",
+    "replies": [],
+    "createdAt": "2024-01-20T14:30:00Z"
+  },
+  {
+    "id": "2",
+    "projectId": "1",
+    "title": "Backend API Progress",
+    "content": "Good progress on the API endpoints this week. We've completed the user authentication system and are now working on the content management endpoints.\n\nCompleted:\n✅ User registration/login\n✅ Password reset functionality\n✅ JWT token implementation\n\nUp next:\n🔄 Content CRUD operations\n🔄 File upload handling\n🔄 Search functionality\n\nExpecting to have the core API ready by Friday for frontend integration.",
+    "author": "Mike Johnson",
+    "replies": [],
+    "createdAt": "2024-01-18T11:15:00Z"
+  },
+  {
+    "id": "3",
+    "projectId": "2",
+    "title": "Campaign Creative Review",
+    "content": "The creative assets for our Q1 campaign are ready for review! I've uploaded all materials to the shared drive including:\n\n• Social media graphics (Instagram, Facebook, LinkedIn)\n• Email templates (welcome series, promotional)\n• Landing page mockups\n• Video ad concepts\n\nPlease review by EOD Thursday so we can incorporate feedback before the client presentation on Monday.",
+    "author": "Emily Davis",
+    "replies": [],
+    "createdAt": "2024-01-19T09:45:00Z"
+  },
+  {
+    "id": "4",
+    "projectId": "3",
+    "title": "Mobile App MVP Features",
+    "content": "Based on our user research and stakeholder feedback, here are the confirmed MVP features for our mobile app:\n\n📱 Core Features:\n• User onboarding flow\n• Profile management\n• Push notifications\n• Offline mode support\n• Social sharing\n\n🎯 Nice-to-have (if time permits):\n• Dark mode\n• Advanced search filters\n• In-app messaging\n\nLet's focus on getting the core features polished first. Thoughts?",
+    "author": "Alex Rodriguez",
+    "replies": [],
+    "createdAt": "2024-01-17T16:20:00Z"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "projectId": "1",
+    "name": "Design Tasks",
+    "todos": []
+  },
+  {
+    "id": "2",
+    "projectId": "1",
+    "name": "Development Tasks",
+    "todos": []
+  },
+  {
+    "id": "3",
+    "projectId": "2",
+    "name": "Marketing Activities",
+    "todos": []
+  },
+  {
+    "id": "4",
+    "projectId": "3",
+    "name": "App Development",
+    "todos": []
+  },
+  {
+    "id": "5",
+    "projectId": "4",
+    "name": "Planning & Strategy",
+    "todos": []
+  }
+]

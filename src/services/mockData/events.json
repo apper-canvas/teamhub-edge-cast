@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "projectId": "1",
+    "title": "Design Review Meeting",
+    "date": "2024-01-25T14:00:00Z",
+    "type": "meeting"
+  },
+  {
+    "id": "2",
+    "projectId": "1",
+    "title": "Homepage Wireframes Due",
+    "date": "2024-01-25T23:59:00Z",
+    "type": "deadline"
+  },
+  {
+    "id": "3",
+    "projectId": "1",
+    "title": "Development Phase Kickoff",
+    "date": "2024-01-29T09:00:00Z",
+    "type": "milestone"
+  },
+  {
+    "id": "4",
+    "projectId": "2",
+    "title": "Campaign Launch",
+    "date": "2024-02-01T00:00:00Z",
+    "type": "milestone"
+  },
+  {
+    "id": "5",
+    "projectId": "2",
+    "title": "Creative Assets Review",
+    "date": "2024-01-26T15:30:00Z",
+    "type": "meeting"
+  },
+  {
+    "id": "6",
+    "projectId": "3",
+    "title": "MVP Feature Freeze",
+    "date": "2024-01-28T17:00:00Z",
+    "type": "deadline"
+  },
+  {
+    "id": "7",
+    "projectId": "3",
+    "title": "Architecture Planning Session",
+    "date": "2024-01-24T10:00:00Z",
+    "type": "meeting"
+  },
+  {
+    "id": "8",
+    "projectId": "4",
+    "title": "Q1 Goals Finalization",
+    "date": "2024-01-30T16:00:00Z",
+    "type": "deadline"
+  }
+]

@@ -70,10 +70,7 @@ const Layout = () => {
             x: sidebarOpen ? 0 : '-100%'
           }}
           transition={{ duration: 0.3, ease: 'easeOut' }}
-          className="fixed lg:relative lg:translate-x-0 inset-y-0 left-0 w-60 bg-white border-r border-gray-200 z-50 lg:z-auto lg:flex flex-col hidden lg:block"
-          style={{ 
-            transform: window.innerWidth >= 1024 ? 'translateX(0)' : undefined 
-          }}
+          className="fixed lg:relative lg:translate-x-0 inset-y-0 left-0 w-60 bg-white border-r border-gray-200 z-50 lg:z-auto flex flex-col lg:block"
         >
           <div className="flex-1 overflow-y-auto p-4">
             <nav className="space-y-2">
